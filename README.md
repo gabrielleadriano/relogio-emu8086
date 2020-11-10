@@ -24,7 +24,7 @@ mount c: path/to/the/program
 ```
 c:
 ```
-## Rodar o programa
+- Rodar o programa
 ```
 clock.exe
 ```
